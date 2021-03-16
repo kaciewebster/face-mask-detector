@@ -1,2 +1,4 @@
 .DS_Store
+processed_train_images.pkl
+processed_test_images.pkl
 data
